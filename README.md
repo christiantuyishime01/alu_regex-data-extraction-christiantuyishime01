@@ -1,8 +1,8 @@
-# DataExtractor ????
+# DataExtractor
 
 Python script to extract structured data like emails, URLs, phone numbers, credit cards, times, HTML tags, hashtags, and currency values from raw text using regular expressions.
 
-## ???? Features
+## Features
 
 - Extracts 8 data types:
   - ✅ Email addresses
